@@ -1,2 +1,2 @@
-# Labs_Sql
-Laboratories in the Sql course
+# Labs Sql
+Laboratories in SQL course
